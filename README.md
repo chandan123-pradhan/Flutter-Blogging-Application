@@ -1,4 +1,4 @@
-# blogging
+## Flutter Blogging Application
 
 A new Flutter project.
 
